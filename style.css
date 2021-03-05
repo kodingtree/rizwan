@@ -1,0 +1,13 @@
+/* This is our main css file */
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    font-size: 25px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
