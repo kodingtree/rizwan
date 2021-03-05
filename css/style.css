@@ -1,0 +1,122 @@
+/* This is our main css file */
+
+body {
+    color: white;
+    /* font-family:Verdana, Geneva, Tahoma, sans-serif; */
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(39, 39, 39);
+    margin: 0px;
+    /* margin-bottom: 100%; */
+    padding-bottom: 25%;
+    /* padding-bottom: auto; */
+    /* padding: auto; */
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: rgb(238, 255, 0);
+    height: 100%;
+
+}
+
+
+
+.title h1 {
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    font-size: 33px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    /* cursor: pointer; */
+}
+
+
+.title :hover {
+    border-style: solid;
+    color: yellow;
+    margin-left: 600px;
+    margin-right: 600px;
+    border-radius: 10px;
+    border-color: yellowgreen;
+    transition: 1s;
+    /* font-style: italic; */
+    font-size: 34px;
+    cursor: pointer;
+}
+
+.slider {
+
+    font-style: italic;
+    color: yellow;
+    font-size: 25px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 15px;
+    border-color: thistle;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.slider  :hover {
+    font-size: 26px;
+    transition: 1s;
+    color: tomato;
+    cursor: pointer;
+    /* border-style: solid; */
+    /* border-width: 2px; */
+    /* border-radius: 15px; */
+    /* border-color: rgb(0, 0, 0); */
+}
+
+
+.myName {
+    font-style: italic;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-bottom: 40px;
+    cursor: pointer;
+}
+.myName :hover {
+    /* font-style: italic; */
+    font-size: 17px;
+    transition: 1s;
+    color: red;
+}
+span :hover {
+    font-size: 29 !important;
+    /* color: red; */
+    transition: 1s;
+}
+
+
+
+
+
+
+
+
+
+
+
+.text {
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+/* For the a tag */
+.link {
+    font-size: 20px;
+    text-decoration: none;
+    font-style: italic;
+    color: rgb(125, 255, 92);
+}
+
+
+
+ a :hover {
+     font-size: 21px;
+    color: red;
+    transition: 1s;
+}
