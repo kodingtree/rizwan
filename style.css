@@ -1,10 +1,15 @@
 /* This is our main css file */
 
 body {
+    color: white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    background-color: bisque;
+    background-color: rgb(39, 39, 39);
 }
 
+a {
+    color: rgb(125, 255, 92);
+    font-style: italic;
+}
 .title {
     /* font-family: Georgia, 'Times New Roman', Times, serif; */
     font-size: 25px;
