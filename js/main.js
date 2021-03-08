@@ -1,6 +1,7 @@
 // This is our JavaScrpt file
 
 var currDate = Date().toLocaleString();
+// var currDate = Date().localTime();
 // var currDate = time
 
 // var textMain = "This file is sent using the JavaScript"
