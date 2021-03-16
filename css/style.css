@@ -1,4 +1,15 @@
 /* This is our main css file */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+::selection {
+    background-color: rgb(235, 139, 49);
+    /* border-style: solid; */
+    /* border-radius: 20px; */
+    /* color: black; */
+}
 
 body {
     color: white;
