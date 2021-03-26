@@ -25,6 +25,7 @@ body {
     border-width: 2px;
     border-radius: 10px;
     border-color: rgb(238, 255, 0);
+    width: 99vw;
     height: 99vh;
 
 }
